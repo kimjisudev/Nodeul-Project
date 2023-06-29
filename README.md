@@ -140,7 +140,7 @@ JWT 구현 방식은 오픈소스([https://github.com/murraco/spring-boot-jwt](h
 <br><br>
 
 ## 업데이트 기록
-- 23.06.29 : 발송 메일 홈페이지 링크 수정
+- 23.06.29 : 발송 메일 홈페이지 링크 수정 / favicon 추가
 - 23.06.28 : 배포 상황에 알맞게 수정
 
 <br><br>
