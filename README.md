@@ -13,8 +13,8 @@
 
 #### 프로젝트 배포
 - 배포 환경
- - Spring boot Project / MariaDB [cloudtype([https://cloudtype.io](https://cloudtype.io/))]
- - Linux (Ubuntu 22.04.2 LTS)
+  - Spring boot Project / MariaDB [cloudtype([https://cloudtype.io](https://cloudtype.io/))]
+  - Linux (Ubuntu 22.04.2 LTS)
 - 북키타카 임시 홈페이지 ([https://www.bookitaka.store](https://www.bookitaka.store))
 
 <br><br>
