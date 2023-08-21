@@ -43,7 +43,7 @@
 <br><br>
 
 ## 기술 스택
-#### 🖥️ FE
+#### 🖥️ Frontend
 <a href="https://www.w3.org/TR/html52/" target="_blank">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </a>
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </a>
 
-#### ⌨️ BE
+#### ⌨️ Backend
 <a href="https://openjdk.java.net" target="_blank">
   <img src="https://img.shields.io/badge/-Java%2011-CC0000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </a>
@@ -100,6 +100,28 @@
 <a href="https://www.postman.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </a>
+
+#### ⌨️ Collaboration Tools
+
+<a href="https://github.com" target="_blank">
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" alt="Github">
+</a>
+<a href="https://figma.com" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" alt="Figma">
+</a>
+<a href="https://notion.so" target="_blank">
+  <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion">
+</a>
+<a href="https://docs.google.com" target="_blank">
+  <img src="https://img.shields.io/badge/GoogleSheets-34A853?style=for-the-badge&logo=GoogleSheets&logoColor=white" alt="GoogleSheets">
+</a>
+<a href="https://zoom.com" target="_blank">
+  <img src="https://img.shields.io/badge/Zoom-0B5CFF?style=for-the-badge&logo=Zoom&logoColor=white" alt="Zoom">
+</a>
+<a href="https://discord.com" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord">
+</a>
+
 
 #### ⛓️ API
 - PortOne 결제 API ([https://portone.io](https://portone.io/))
